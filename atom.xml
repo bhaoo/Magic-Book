@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-05T01:29:29.087Z</updated>
+  <updated>2020-03-05T02:09:36.352Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/hello-world.html"/>
     <id>http://yoursite.com/hello-world.html</id>
-    <published>2020-03-05T01:29:29.087Z</published>
-    <updated>2020-03-05T01:29:29.087Z</updated>
+    <published>2020-03-05T02:09:36.352Z</published>
+    <updated>2020-03-05T02:09:36.352Z</updated>
     
     <content type="html"><![CDATA[<p>2020-03-05，魔法童话来啦！！！！</p>]]></content>
     
