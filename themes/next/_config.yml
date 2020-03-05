@@ -40,10 +40,10 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: https://cdn.jsdelivr.net/gh/bhaoo/Bhao-s-Blog@latest/logo.jpg
+  medium: https://cdn.jsdelivr.net/gh/bhaoo/Bhao-s-Blog@latest/logo.jpg
+  apple_touch_icon: https://cdn.jsdelivr.net/gh/bhaoo/Bhao-s-Blog@latest/logo.jpg
+  safari_pinned_tab: https://cdn.jsdelivr.net/gh/bhaoo/Bhao-s-Blog@latest/logo.jpg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
