@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-03-05T02:41:45.697Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://book.owo.show/"/>
+  <updated>2020-03-05T03:00:20.480Z</updated>
+  <id>https://book.owo.show/</id>
   
   <author>
     <name>Bhao</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world.html"/>
-    <id>http://yoursite.com/hello-world.html</id>
-    <published>2020-03-05T02:41:45.697Z</published>
-    <updated>2020-03-05T02:41:45.697Z</updated>
+    <link href="https://book.owo.show/hello-world.html"/>
+    <id>https://book.owo.show/hello-world.html</id>
+    <published>2020-03-05T03:00:20.480Z</published>
+    <updated>2020-03-05T03:00:20.480Z</updated>
     
     <content type="html"><![CDATA[<p>2020-03-05，魔法童话来啦！！！！</p><p><strong>甜美童话，快乐童年</strong></p>]]></content>
     
