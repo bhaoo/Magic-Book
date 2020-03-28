@@ -40,7 +40,7 @@ keywords: "Hexo, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss: false
+#rss: false
 
 footer:
   # Specify the date when the site was setup.
@@ -293,7 +293,7 @@ font:
   enable: false
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
-  host:
+  host: //fonts.googleapis.com
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -311,7 +311,7 @@ font:
   headings:
     external: true
     family: Sen
-    size:
+    size: 22px
 
   # Font settings for posts.
   # Fallback to `global` font settings.
@@ -324,7 +324,7 @@ font:
   logo:
     external: true
     family: Sen
-    size:
+    size: 20px
 
   # Font settings for <code> and code blocks.
   codes:
